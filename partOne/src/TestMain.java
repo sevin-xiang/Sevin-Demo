@@ -3,6 +3,6 @@ public class TestMain {
         System.out.println("1");
         System.out.println("2");
         System.out.println("test change");
-        System.out.println("模拟冲突main");
+        System.out.println("模拟冲突test");
     }
 }
